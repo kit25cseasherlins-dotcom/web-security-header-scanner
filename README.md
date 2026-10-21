@@ -87,5 +87,6 @@ passive checks only and does not attack any system.
 
 ## Author
 **Sherlin S**
-Computer Science Engineering Student, (உங்க காலேஜ் பேர்)
+
+Computer Science Engineering Student, 
 GitHub: [kit25cseasherlins-dotcom](https://github.com/kit25cseasherlins-dotcom)
