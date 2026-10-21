@@ -1,0 +1,2 @@
+URL,Score %,Grade,High,Medium,Low,Failed checks,Error
+https://example.com/,30,F,2,3,2,HTTP redirects to HTTPS; Header: Strict-Transport-Security; Header: Content-Security-Policy; Header: X-Frame-Options; Header: X-Content-Type-Options; Header: Referrer-Policy; Header: Permissions-Policy,

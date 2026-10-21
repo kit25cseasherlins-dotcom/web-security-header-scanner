@@ -1,0 +1,4 @@
+# One URL per line. Scan ONLY sites you own or have permission to test.
+https://example.com
+https://github.com
+https://kit25cseasherlins-dotcom.github.io/Sherlin-s-Portfolio/
